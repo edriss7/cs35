@@ -1,0 +1,11 @@
+
+Blue
+Red
+Gold
+Silver
+Iron
+Steel
+Flame
+Frozen
+Dark
+Light

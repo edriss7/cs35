@@ -1,0 +1,10 @@
+Sword
+Mace
+Hammer
+Spear
+Axe
+Shield
+Helmet
+Armor
+Gloves
+Boots
