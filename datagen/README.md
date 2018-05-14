@@ -10,7 +10,7 @@ the ID and the item name.
 Run example:
 
     javac ItemGenerator.java
-		java ItemGenerator 100 a.txt b.txt c.txt
+    java ItemGenerator 100 a.txt b.txt c.txt
 
 ### InventoryGenerator
 
