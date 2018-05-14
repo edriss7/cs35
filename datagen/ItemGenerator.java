@@ -14,7 +14,7 @@ public class ItemGenerator {
 	static final int UNIQ_RETRIES = 100;
 
 	public static void main(String[] args) throws Exception {
-		if (args.length <= 1) {
+		if (args.length < 2) {
 			System.out.println("Usage: ItemGenerator count file1 [file2 ...]");
 			return;
 		}
